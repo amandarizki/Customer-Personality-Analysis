@@ -12,18 +12,18 @@ To analyze and segment customers based on demographic profiles, income levels, p
 Below are several key questions to be addressed using the **5W+1H** approach:
 
 ### **How**
-* **How is the data structured, and what are the distribution patterns of customer characteristic variables (age, income, and family status)?**
+* How is the data structured, and what are the distribution patterns of customer characteristic variables (age, income, and family status)?
 ### **What**
-* **Which products are most frequently purchased by customer segments based on age?**
+* Which products are most frequently purchased by customer segments based on age?
 ### **Why**
-* **Is there a difference in the average spending on wine (*MntWines*) between married and unmarried customers?**
+* Is there a difference in the average spending on wine (*MntWines*) between married and unmarried customers?
 ### **Where**
-* **Through which channels do customers shop most often? (Website, catalog, physical store)**
+* Through which channels do customers shop most often? (Website, catalog, physical store)
 ### **Why**
-* **Does customer age influence their preferred purchasing channel (web, catalog, physical store)?**
-* **Are high-income customers more responsive to promotions?**
+* Does customer age influence their preferred purchasing channel (web, catalog, physical store)?
+* Are high-income customers more responsive to promotions?
 ### **When**
-* **Do newly joined customers (*Dt\_Customer*) tend to be more active in purchasing products?**
+* Do newly joined customers (*Dt\_Customer*) tend to be more active in purchasing products?
 
 ## Key Insights
 
