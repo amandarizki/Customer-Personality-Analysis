@@ -8,12 +8,46 @@ A data-driven project to understand customer demographics, purchasing behaviors,
 To analyze and segment customers based on demographic profiles, income levels, purchasing channels, and product preferences to uncover patterns that drive purchasing decisions.
 
 **Key Questions Addressed:**
-- Who are the most valuable customer segments?
-- How do income and marital status influence spending?
-- Which channels do customers prefer?
-- Are certain products favored by specific age groups?
-- How responsive are customers to marketing campaigns?
+Below are several key questions to be addressed using the **5W+1H** approach:
 
+---
+
+### **How**
+
+* **How is the data structured, and what are the distribution patterns of customer characteristic variables (age, income, and family status)?**
+
+---
+
+### **What**
+
+* **Which products are most frequently purchased by customer segments based on age?**
+
+---
+
+### **Why**
+
+* **Is there a difference in the average spending on wine (*MntWines*) between married and unmarried customers?**
+
+---
+
+### **Where**
+
+* **Through which channels do customers shop most often? (Website, catalog, physical store)**
+
+---
+
+### **Why**
+
+* **Does customer age influence their preferred purchasing channel (web, catalog, physical store)?**
+* **Are high-income customers more responsive to promotions?**
+
+---
+
+### **When**
+
+* **Do newly joined customers (*Dt\_Customer*) tend to be more active in purchasing products?**
+
+---
 
 ## Key Insights
 
