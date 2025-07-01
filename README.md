@@ -1,7 +1,6 @@
 # Customer-Personality-Analysis
 A data-driven project to understand customer demographics, purchasing behaviors, and campaign responsiveness. This analysis provides actionable insights for designing targeted marketing strategies and improving customer engagement.
 
----
 
 ## Project Overview
 
@@ -15,7 +14,6 @@ To analyze and segment customers based on demographic profiles, income levels, p
 - Are certain products favored by specific age groups?
 - How responsive are customers to marketing campaigns?
 
----
 
 ## Key Insights
 
@@ -74,7 +72,6 @@ To analyze and segment customers based on demographic profiles, income levels, p
 ### Statistical Testing
 - No significant difference in wine spending between married and unmarried customers (*p-value = 0.7758*).
 
----
 
 ## Methodology
 
@@ -89,7 +86,6 @@ The analysis included:
 - Python (pandas, numpy, seaborn, matplotlib, scipy)
 - Jupyter Notebook
 
----
 
 ## How to Run the Project
 
@@ -113,7 +109,6 @@ jupyter notebook
 ```
 4. Execute the analysis cells in order.
 
----
 
 ## Business Recommendations
 
@@ -122,7 +117,6 @@ jupyter notebook
 - Invest in omnichannel strategies emphasizing in-store and digital experiences.
 - Tailor messaging to educated customers with rational, benefit-focused content.
 
----
 
 ## Author
 
