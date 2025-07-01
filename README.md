@@ -92,7 +92,8 @@ The analysis included:
 1. Clone this repository:
 ```
 
-git clone <your-repository-url>
+git clone https://github.com/amandarizki/Customer-Personality-Analysis.git
+cd Customer-Personality-Analysis
 
 ```
 2. Install dependencies:
